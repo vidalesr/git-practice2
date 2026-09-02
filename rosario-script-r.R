@@ -12,4 +12,4 @@
 
 # visualization -------------------------------------------------------------------
 
-# When I make a change and someone else is editing on IDE
+# what happens when I pull before comitting and there were changes pulled?
