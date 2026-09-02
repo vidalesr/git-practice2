@@ -50,3 +50,6 @@ rsconnect/
 
 # wildcard for all CSVs
 *.csv
+
+# Project file
+*.Rproj
