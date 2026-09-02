@@ -11,3 +11,5 @@
 # read in data as csv
 
 # visualization -------------------------------------------------------------------
+
+# When I make a change and someone else is editing on IDE
