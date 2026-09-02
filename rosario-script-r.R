@@ -12,4 +12,4 @@
 
 # visualization -------------------------------------------------------------------
 
-# what happens when I pull before comitting and there were changes pulled?
+# what happens when I pull before committing and there were changes pulled?
